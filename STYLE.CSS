@@ -71,7 +71,7 @@ text-align: center;
      background-color: rgb(255, 139, 139);
  }
 nav:hover{
-    width: 175px;
+    width: 200px;
     transition: all 0.5s ease;
 }
 span.nav-items{
